@@ -1,9 +1,10 @@
 {
   "name": "@happycode-core/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "private": false,
+  "description": "eslint-config",
   "type": "module",
   "author": {
     "name": "HappyCode",
