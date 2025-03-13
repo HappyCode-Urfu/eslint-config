@@ -4,12 +4,13 @@
   "main": "index.js",
   "license": "MIT",
   "private": false,
+  "type": "module",
   "author": {
     "name": "HappyCode",
     "url": "https://github.com/konoplitsky"
   },
   "repository": {
-    "url": "https://github.com/HappyCode-Urfu/prettier-config"
+    "url": "https://github.com/HappyCode-Urfu/eslint-config"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^4.10.1",
@@ -21,7 +22,8 @@
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.19",
     "eslint-plugin-simple-import-sort": "^12.1.1",
-    "prettier": "^3.5.3"
+    "prettier": "^3.5.3",
+    "typescript-eslint": "^8.26.1"
   },
   "peerDependencies": {
     "eslint": "^9.22.0"
